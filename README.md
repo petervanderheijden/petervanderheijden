@@ -6,8 +6,3 @@ NOTE: A lot of my projects here on GitHub are unfinished or discontinued, you kn
 # 🌐 Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=petervanderheijden&show_icons=true&theme=radical)
 ![Github Stats](https://streak-stats.demolab.com?user=petervanderheijden&theme=radical&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
-
-[![Nathaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathaniel-VFX&theme=algolia&show_icons=true)](https://github.com/Nathaniel-VFX/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nathaniel-VFX&theme=radical)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaniel-VFX&layout=compact&theme=algolia&show_icons=true)](https://github.com/Nathaniel-VFX/github-readme-stats)
