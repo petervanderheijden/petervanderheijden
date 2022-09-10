@@ -6,4 +6,8 @@ NOTE: A lot of my projects here on GitHub are unfinished or discontinued, you kn
 # 🌐 Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=petervanderheijden&show_icons=true&theme=radical)
 ![Github Stats](https://streak-stats.demolab.com?user=petervanderheijden&theme=radical&date_format=j%2Fn%5B%2FY%5D)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaniel-VFX&layout=compact&theme=algolia&show_icons=true)](https://github.com/Nathaniel-VFX/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaniel-VFX&layout=compact&theme=algolia&show_icons=true)](https://github.com/petervanderheijden)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaniel-VFX&layout=compact&theme=algolia&show_icons=true)](https://github.com/petervanderheijden)
+[![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaniel-VFX&layout=compact&theme=algolia&show_icons=true)](https://github.com/petervanderheijden)
+[![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaniel-VFX&layout=compact&theme=algolia&show_icons=true)](https://github.com/petervanderheijden)
