@@ -4,4 +4,4 @@ My name is Peter. I am sixtheen years old and I am from the Netherlands. I liked
 NOTE: A lot of my projects here on GitHub are unfinished or discontinued, you know how it is.
 
 # 🌐 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=petervanderheijden)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=petervanderheijden&show_icons=true&theme=radical)
