@@ -5,3 +5,4 @@ NOTE: A lot of my projects here on GitHub are unfinished or discontinued, you kn
 
 # 🌐 Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=petervanderheijden&show_icons=true&theme=radical)
+[![GitHub Stats](https://streak-stats.demolab.com?user=petervanderheijden&theme=radical&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
