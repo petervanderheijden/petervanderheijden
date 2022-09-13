@@ -9,4 +9,5 @@ NOTE: A lot of my projects here on GitHub are unfinished or discontinued, you kn
 [![Github Stats](https://streak-stats.demolab.com?user=petervanderheijden&theme=radical&date_format=j%2Fn%5B%2FY%5D)](https://github.com/petervanderheijden)
 [![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=petervanderheijden&layout=compact&theme=radical&show_icons=true)](https://github.com/petervanderheijden)
 
-## Discord
+## Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d%C3%A9sir%C3%A9evdheijden&cover_image=true&theme=default&bar_color_cover=false&bar_color=09ff00)](https://github.com/kittinan/spotify-github-profile)
